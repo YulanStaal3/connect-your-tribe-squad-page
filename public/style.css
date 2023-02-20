@@ -1,6 +1,7 @@
 * {
   box-sizing: border-box;
   margin: 0;
+  font-family: "Gill Sans";
 }
 
 .logo {
@@ -35,7 +36,7 @@ h1 {
 }
 
 a {
-  color: #FFFFFF;
+  color: #a675f5;
   font-size: 1.1rem;
   text-align: center;
   font-weight: 400;
@@ -68,7 +69,7 @@ h2 {
 .team-section .gitHubHandle {
   font-size: 1em;
   font-weight: 300;
-  color: blue;
+  color: #00008B;
 }
 
 .container {
@@ -81,7 +82,7 @@ h2 {
 .avatar {
   padding: 6.25em 1.8em 1.8em 1.8em;
   border-radius: 0.8em;
-  box-shadow: 0.3em 0.3em 1.4em #D3D3D3;
+  box-shadow: 0.3em 0.3em 1.4em #FFB6C1;
   position: relative;
   text-align: center;
   background-color: #FFE4E1;
