@@ -1,0 +1,27 @@
+<%- include('./partials/head.ejs') %>
+
+<article class="team-section">
+  <h1>Meet our <%= squad.name %></h1>
+
+
+  <section class="container">
+    <% squad.members.forEach(member => { %>
+    <main class="avatar">
+      <div class="img">
+         <% if (member.avatar) { %>
+        <img src="<%= member.avatar %>" alt="De avatar van <%= member.name %>" />
+         <% }else{ %>
+          <img src="/placeholder.jpg" alt="Placeholder avatar" />
+          <% } %>
+      </div>
+
+      <h2><%= member.name %> <%= member.prefix %> <%= member.surname %></h2>
+      <p class="nickname"><%= member.nickname %></p>
+      <p class="gitHubHandle"><%= member.gitHubHandle %></p>
+    </main>
+    <% }) %>
+  </section>
+</article>
+
+
+<%- include('./partials/foot.ejs') %>
