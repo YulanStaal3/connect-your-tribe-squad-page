@@ -1,6 +1,6 @@
 # Squadpage voorbeeld
 
-![Schermafbeelding 2023-03-22 om 11 48 32](https://user-images.githubusercontent.com/112861488/226882603-40e6cf74-2a38-40fb-b28d-e170f029c612.jpeg)
+<img width="539" alt="Schermafbeelding 2023-03-22 om 11 48 32" src="https://user-images.githubusercontent.com/112861488/226882603-40e6cf74-2a38-40fb-b28d-e170f029c612.jpeg">
 
 ## Inhoudsopgave
 
@@ -13,7 +13,7 @@
 
 ## Beschrijving
 
-Een live-coded voorbeeld van een overzichtspagina gemaakt met Express.js en EJS, welke gebruik maakt van configuratie in een `.env` bestand.
+Je leert met een team een overzichtpagina te ontwerpen en bouwen op basis van een bestaande API.
 
 ## Kenmerken
 
