@@ -1,6 +1,6 @@
 # Squadpage voorbeeld
 
-Een live-coded voorbeeld tijdens de talk op 15 feb 2023.
+![Schermafbeelding 2023-03-22 om 11 48 32](https://user-images.githubusercontent.com/112861488/226882603-40e6cf74-2a38-40fb-b28d-e170f029c612.jpeg)
 
 ## Inhoudsopgave
 
