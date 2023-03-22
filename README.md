@@ -13,9 +13,20 @@
 
 ## Beschrijving
 
-Je leert met een team een overzichtpagina te ontwerpen en bouwen op basis van een bestaande API.
+We hebben met een team een overzichtpagina ontworpen en gebouwd op basis van een bestaande API. Ook was het de bedoeling dat je de squad page ging maken door middel van NodeJS. In NodeJS hebben wij gebruik gemaakt van Express.
 
 ## Kenmerken
+
+* 🔌Node
+* 📟Ejs
+* 📡Express
+* 🗂Squad API
+* 📟 HTML
+* 🎨 CSS
+
+### Tools
+
+* 🖥️ VS Code
 
 ## Installatie
 
@@ -24,6 +35,8 @@ Je leert met een team een overzichtpagina te ontwerpen en bouwen op basis van ee
 3. Voer npm start uit en open het voorbeeld in je browser
 
 ## Gebruik
+
+De website is nog statisch en heeft nog geen specifieke gebruiksaanwijzingen.
 
 ## Bronnen
 
